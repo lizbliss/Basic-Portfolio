@@ -1,0 +1,151 @@
+body {
+  font-size: 18px;
+  color: #777777;
+  font-family: "Georgia","Times", "Times New Roman", "serif";
+  }
+
+h1 {
+  border-bottom: 1px solid #777777;
+  margin: 30px;
+  padding: 20px;
+  color: #4aaaa5;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+h2 {
+  border-bottom: 1px solid #777777;
+  margin: 30px;
+  padding: 20px;
+  color: #4aaaa5;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.connect-img {
+width: 50px;
+height: 50px;
+
+}
+
+.header {
+  padding: 20px 20px 0;
+  overflow:auto;
+}
+
+#name {
+  background: #4aaaa5;
+  padding: 20px;
+  display:inline;
+  float:left;
+  margin-left: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  position: relative;
+  margin-top: 0px;
+ 
+}
+
+#navi {
+  display:inline;
+  padding: 0px;
+  float:right;
+  padding: 20px;
+  margin-right: 150px;
+  color: #777777;
+
+}
+
+.wrapper {
+  background-image: url("../images/symphony.png");
+  background-color: #ffffff;
+  padding-top: 20px;
+  width:100%;
+  
+}
+
+.inner {
+  width: 960px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.sidebar {
+  width: 270px;
+  float: right;
+}
+
+#content {
+  background-color: #ffffff;
+  width: 650px;
+  float:left;
+  text-align: left;
+}
+
+#connect {
+  background-color: #ffffff;
+  float: right;
+  width:270px;
+  height: 300px;
+  text-align: center;
+}
+
+footer {
+  clear: both;
+  padding: 20px;
+  height: 25px;
+  background-color: #666666;
+  text-align: center;
+  border-top: 4px solid #4aaaa5;
+  color: white;
+  width: 100%;
+}
+
+#bio_image {
+  border: 1px solid #eee;
+  margin: 0 10px 10px 20px;
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+form {
+  margin: 6%;
+}
+
+#text3 {
+  width: 100;
+  height: 400px;
+}
+
+
+
+
+
+
+.portfolio-item {
+  display: inline-block;
+  position:relative;
+  width: 35%;
+  margin: 0 5%;
+}
+
+.portfolio-img {
+  display:block;
+  margin: 0 auto;
+  max-width:100%;
+}
+
+.portfolio-label {
+  position:absolute;
+  bottom: 0;
+  background-color: #4aaaa5;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: white;
+}
+
+.textbox{
+  width: 100%;
+}
